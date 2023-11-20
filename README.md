@@ -36,7 +36,7 @@ dotnet run
 - `wwwroot` - Contains the static files for the frontend part.
 
 ## Usage
-Once the application is running, you can navigate to `https://localhost:5001` to view the application in your web browser.
+Once the application is running, you can navigate to `https://localhost:7109` to view the application in your web browser.
 
 ## Contribution
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
